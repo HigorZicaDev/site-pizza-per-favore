@@ -9,15 +9,11 @@
 ![mysql][MYSQL]
 
 <p align="center">
-    <img src="https://github.com/HigorZicaDev/profmargaux-site/blob/main/assets/images/img1-site.png" alt="Image Example" width="400px">
+    <img src="https://raw.githubusercontent.com/HigorZicaDev/site-pizza-per-favore/main/img/CardapioPizza1.png" alt="Image Example" width="400px">
 </p>
 
 <p align="center">
-    <img src="https://github.com/HigorZicaDev/profmargaux-site/blob/main/assets/images/img2-site.png" alt="Image Example" width="400px">
-</p>
-
-<p align="center">
-    <img src="https://github.com/HigorZicaDev/profmargaux-site/blob/main/assets/images/img3-site.png" alt="Image Example" width="400px">
+    <img src="https://raw.githubusercontent.com/HigorZicaDev/site-pizza-per-favore/main/img/CardapioPizza2.png" alt="Image Example" width="400px">
 </p>
 
 <h2 id="started">📌 About</h2>
