@@ -2,7 +2,7 @@
 [PHP]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
 [MYSQL]: https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
 
-<h1 align="center" style="font-weight: bold;">Projets personnels 💻</h1>
+<h1 align="center" style="font-weight: bold;">Site Web De Pizzeria + Menu En Ligne</h1>
 
 ![javascript][JAVASCRIPT__BADGE]
 ![php][PHP]
